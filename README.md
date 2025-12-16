@@ -4,7 +4,7 @@
 
 ### Frontend-Focused Web Developer | Vue.js • JavaScript • System-Based Projects
 
-📍 Philippines · 🎓 3rd-Year Computer Science Student  
+📍 Philippines · 🎓 3rd-Year IT Student  
 📫 fideljotojot@gmail.com
 
 ![GitHub followers](https://img.shields.io/github/followers/fideljotojot?style=flat-square)
