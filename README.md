@@ -1,42 +1,72 @@
-👋 Hi, I’m Fidel Jotojot
+<div align="center">
 
-🎓 3rd-year Computer Science student at Caraga State University – Cabadbaran Campus
-🌍 Philippines | 💻 Aspiring Web & Frontend Developer
+# Fidel Jotojot
 
-🚀 About Me
+### Frontend-Focused Web Developer | Vue.js • JavaScript • System-Based Projects
 
-I’m a student web developer focused on building practical, user-friendly applications. I specialize in Vue.js frontend development while gaining solid experience in backend technologies and mobile development. I enjoy solving real problems, writing clean code, and continuously improving through hands-on projects.
+📍 Philippines · 🎓 3rd-Year Computer Science Student  
+📫 fideljotojot@gmail.com
 
-🔭 Currently building Vue-based web systems
+![GitHub followers](https://img.shields.io/github/followers/fideljotojot?style=flat-square)
+![Profile views](https://komarev.com/ghpvc/?username=fideljotojot&style=flat-square)
 
-🌱 Learning advanced JavaScript, backend integration, and Flutter
+</div>
 
-🤝 Open to internships, open-source, and collaborative projects
+---
 
-📫 Email: fideljotojot@gmail.com
+## Professional Summary
+Frontend-focused web developer with hands-on experience building Vue.js applications and full-stack academic systems. Strong foundation in JavaScript, responsive UI design, and backend integration. Actively seeking internship and entry-level opportunities to contribute to real-world projects and grow as a developer.
 
-🛠️ Tech Stack
+---
 
-Languages: JavaScript, Python, PHP
+## Technical Skills
+**Languages:** JavaScript, Python, PHP  
+**Frontend:** HTML, CSS, Vue.js  
+**Backend:** Node.js, Flask  
+**Databases:** MySQL, NoSQL  
+**Tools:** Git, GitHub  
 
-Frontend: HTML, CSS, Vue.js
+---
 
-Backend: Node.js, Flask
+## Selected Projects
 
-Databases: MySQL, NoSQL
+**FindMyProf**  
+A web-based system that helps students efficiently locate instructors and view availability, improving communication and accessibility.  
+*Vue · JavaScript · Python · PHP*
 
-Tools: Git, GitHub
+**Craftify**  
+A marketing system where I developed responsive and user-friendly frontend components.  
+*Vue · Laravel*
 
-📌 Featured Projects
+---
 
-FindMyProf – A system that helps students easily locate instructors, improving communication and accessibility
-Vue, JavaScript, Python, PHP
+## GitHub Activity
 
-Craftify – A marketing system where I developed responsive and user-friendly frontend interfaces
-Vue, Laravel
+<div align="center">
 
-🔗 Links
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fideljotojot&show_icons=true&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fideljotojot&layout=compact&theme=dark&hide_border=true)
 
-💻 GitHub: https://github.com/fideljotojot
+</div>
 
-🌐 Portfolio: (Coming soon)
+---
+
+## Career Focus
+- Frontend & Web Development  
+- Vue.js and JavaScript Ecosystem  
+- Internship and Entry-Level Developer Roles  
+- Building practical, system-driven applications  
+
+---
+
+## Links
+- GitHub: https://github.com/fideljotojot  
+- Portfolio: Coming soon
+
+---
+
+<div align="center">
+
+Clean code • Practical systems • Continuous improvement
+
+</div>
