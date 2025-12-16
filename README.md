@@ -31,7 +31,7 @@ Frontend-focused web developer with hands-on experience building Vue.js applicat
 A web-based system that helps students efficiently locate instructors and view availability, improving communication and accessibility.  
 *Vue · JavaScript · Python · PHP*
 
-**Craftify**  
+**Marketplace Project**  
 A marketing system where I developed responsive and user-friendly frontend components.  
 *Vue · Laravel*
 
