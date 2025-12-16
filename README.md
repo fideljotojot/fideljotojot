@@ -7,9 +7,6 @@
 📍 Philippines · 🎓 3rd-Year IT Student  
 📫 fideljotojot@gmail.com
 
-![GitHub followers](https://img.shields.io/github/followers/fideljotojot?style=flat-square)
-![Profile views](https://komarev.com/ghpvc/?username=fideljotojot&style=flat-square)
-
 </div>
 
 ---
