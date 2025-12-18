@@ -87,7 +87,6 @@ These are the Philippine peso bill denominations the model can recognize.
 <p align="center">
 <ul style="list-style-position: inside; text-align: left; display: inline-block; margin: 0; padding: 0 12px;">
   <li><strong>Camera:</strong> Capture a bill image or pick one from the gallery.</li>
-  <li><strong>Records:</strong> Browse your previous scans with timestamps and confidence.</li>
   <li><strong>Result:</strong> See the predicted denomination/material with confidence scores.</li>
 </ul>
 </p>
