@@ -42,9 +42,7 @@ A Flutter mobile application that uses machine learning to instantly detect and 
 ### App Screenshots:
 <div align="center">
 
-<img src="peso_bills/screenshots/scanner_main.png" alt="Main Scanner Screen" width="45%"> <img src="peso_bills/screenshots/bill_scan.png" alt="Bill Scan Ready" width="45%">
-
-<img src="peso_bills/screenshots/analytics.png" alt="Analytics Dashboard" width="45%"> <img src="peso_bills/screenshots/logs.png" alt="Scan History Logs" width="45%">
+<img src="peso_bills/screenshots/scanner_main.png" alt="Main Scanner Screen" width="25%"> <img src="peso_bills/screenshots/bill_scan.png" alt="Bill Scan Ready" width="25%"> <img src="peso_bills/screenshots/analytics.png" alt="Analytics Dashboard" width="25%"> <img src="peso_bills/screenshots/logs.png" alt="Scan History Logs" width="25%">
 
 </div>
 
