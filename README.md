@@ -39,6 +39,29 @@ A Flutter mobile application that uses machine learning to instantly detect and 
 - **Scan History:** Maintain detailed logs of all scanned bills with timestamps and confidence metrics
 - **Bill Encyclopedia:** Educational reference guide showing all supported peso bill denominations
 
+### 💵 Supported Bill Denominations
+These are the Philippine peso bill denominations the model can recognize.
+
+<table>
+  <tr>
+    <td width="20%"><img src="peso_bills/assets/images/20pesos-640-1571047972.jpg" alt="₱20 Peso Bill" width="100%"/><br/><strong>₱20 Peso Bill</strong><br/>Paper Only<br/>Blue-Green tones</td>
+    <td width="20%"><img src="peso_bills/assets/images/50.jpg" alt="₱50 Peso Bill" width="100%"/><br/><strong>₱50 Peso Bill</strong><br/>Paper<br/>Red tones</td>
+    <td width="20%"><img src="peso_bills/assets/images/100.avif" alt="₱100 Peso Bill" width="100%"/><br/><strong>₱100 Peso Bill</strong><br/>Paper<br/>Yellow-Green tones</td>
+    <td width="20%"><img src="peso_bills/assets/images/200.jpg" alt="₱200 Peso Bill" width="100%"/><br/><strong>₱200 Peso Bill</strong><br/>Paper Only<br/>Purple tones</td>
+    <td width="20%"><img src="peso_bills/assets/images/500.jpg" alt="₱500 Peso Bill" width="100%"/><br/><strong>₱500 Peso Bill</strong><br/>Paper<br/>Lime Green tones</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="20%"><img src="peso_bills/assets/images/1000.webp" alt="₱1000 Peso Bill" width="100%"/><br/><strong>₱1000 Peso Bill</strong><br/>Paper<br/>Gold tones</td>
+    <td width="20%"><img src="peso_bills/assets/images/new-50.jpg" alt="Polymer ₱50 Peso Bill" width="100%"/><br/><strong>Polymer ₱50</strong><br/>Polymer Series (2022+)<br/>Red tones</td>
+    <td width="20%"><img src="peso_bills/assets/images/new-100.webp" alt="Polymer ₱100 Peso Bill" width="100%"/><br/><strong>Polymer ₱100</strong><br/>Polymer Series (2022+)<br/>Yellow-Green tones</td>
+    <td width="20%"><img src="peso_bills/assets/images/new-500.webp" alt="Polymer ₱500 Peso Bill" width="100%"/><br/><strong>Polymer ₱500</strong><br/>Polymer Series (2022+)<br/>Lime Green tones</td>
+    <td width="20%"><img src="peso_bills/assets/images/new-1000.jpg" alt="Polymer ₱1000 Peso Bill" width="100%"/><br/><strong>Polymer ₱1000</strong><br/>Polymer Series (2022+)<br/>Gold tones</td>
+  </tr>
+</table>
+
 ### App Screenshots:
 <div align="center">
   <table>
