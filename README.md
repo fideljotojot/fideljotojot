@@ -48,6 +48,19 @@ A marketing system where I developed responsive and user-friendly frontend compo
 
 ---
 
+<div align="center">
+
+### 📊 Contribution Activity
+
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=fideljotojot&theme=github-dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fideljotojot&layout=compact&theme=dark&hide_border=true)
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=fideljotojot&theme=github-dark&hide_border=true)
+
+
+</div>
+
+---
+
 ## Career Focus
 - Frontend & Web Development  
 - Vue.js and JavaScript Ecosystem  
