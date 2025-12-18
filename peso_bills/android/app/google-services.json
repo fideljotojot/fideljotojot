@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "856581905968",
+    "project_id": "peso-bill",
+    "storage_bucket": "peso-bill.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856581905968:android:62d0846e66b62cc01b57f5",
+        "android_client_info": {
+          "package_name": "com.example.peso_bills"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDaaDzaVDGbhuOLLfQ_XHS891wnjCG7HI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

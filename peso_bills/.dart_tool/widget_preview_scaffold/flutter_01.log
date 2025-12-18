@@ -1,0 +1,74 @@
+Flutter crash report.
+Please report a bug at https://github.com/flutter/flutter/issues.
+
+## command
+
+flutter widget-preview start --machine --web-server --dtd-url ws://127.0.0.1:55948/T2HX9FJBa9s= --devtools-server-address http://127.0.0.1:9100/
+
+## exception
+
+PathNotFoundException: PathNotFoundException: Cannot open file, path = 'C:\flutter_projects\peso_bills\.dart_tool\widget_preview_scaffold\lib\src\generated_preview.dart' (OS Error: The system cannot find the path specified.
+, errno = 3)
+
+```
+#0      _File.throwIfError (dart:io/file_impl.dart:783:7)
+#1      _File.openSync (dart:io/file_impl.dart:576:5)
+#2      _File.writeAsBytesSync (dart:io/file_impl.dart:748:31)
+#3      _File.writeAsStringSync (dart:io/file_impl.dart:776:5)
+#4      ForwardingFile.writeAsStringSync (package:file/src/forwarding/forwarding_file.dart:150:16)
+#5      ErrorHandlingFile.writeAsStringSync.<anonymous closure> (package:flutter_tools/src/base/error_handling_io.dart:254:22)
+#6      _runSync (package:flutter_tools/src/base/error_handling_io.dart:552:14)
+#7      ErrorHandlingFile.writeAsStringSync (package:flutter_tools/src/base/error_handling_io.dart:253:5)
+#8      PreviewCodeGenerator.populatePreviewsInGeneratedPreviewScaffold (package:flutter_tools/src/widget_preview/preview_code_generator.dart:120:26)
+#9      WidgetPreviewStartCommand.onChangeDetected (package:flutter_tools/src/commands/widget_preview.dart:356:27)
+#10     PreviewDetector._onFileSystemEvent.<anonymous closure> (package:flutter_tools/src/widget_preview/preview_detector.dart:193:23)
+<asynchronous suspension>
+#11     PreviewDetectorMutex.runGuarded (package:flutter_tools/src/widget_preview/utils.dart:99:14)
+<asynchronous suspension>
+#12     PreviewDetector._onFileSystemEvent (package:flutter_tools/src/widget_preview/preview_detector.dart:123:5)
+<asynchronous suspension>
+```
+
+## flutter doctor
+
+```
+[✓] Flutter (Channel stable, 3.38.3, on Microsoft Windows [Version 10.0.26100.7171], locale en-PH) [286ms]
+    • Flutter version 3.38.3 on channel stable at C:\flutter
+    • Upstream repository https://github.com/flutter/flutter.git
+    • Framework revision 19074d12f7 (7 days ago), 2025-11-20 17:53:13 -0500
+    • Engine revision 13e658725d
+    • Dart version 3.10.1
+    • DevTools version 2.51.1
+    • Feature flags: enable-web, enable-linux-desktop, enable-macos-desktop, enable-windows-desktop, enable-android, enable-ios, cli-animations, enable-native-assets, omit-legacy-version-file, enable-lldb-debugging
+
+[✓] Windows Version (Windows 11 or higher, 24H2, 2009) [1,517ms]
+
+[✓] Android toolchain - develop for Android devices (Android SDK version 36.1.0) [2.8s]
+    • Android SDK at C:\Users\Lenovo\AppData\Local\Android\sdk
+    • Emulator version 36.2.12.0 (build_id 14214601) (CL:N/A)
+    • Platform android-36, build-tools 36.1.0
+    • Java binary at: C:\Program Files\Android\Android Studio\jbr\bin\java
+      This is the JDK bundled with the latest Android Studio installation on this machine.
+      To manually set the JDK path, use: `flutter config --jdk-dir="path/to/jdk"`.
+    • Java version OpenJDK Runtime Environment (build 21.0.8+-14196175-b1038.72)
+    • All Android licenses accepted.
+
+[✓] Chrome - develop for the web [14ms]
+    • Chrome at C:\Program Files\Google\Chrome\Application\chrome.exe
+
+[✗] Visual Studio - develop Windows apps [12ms]
+    ✗ Visual Studio not installed; this is necessary to develop Windows apps.
+      Download at https://visualstudio.microsoft.com/downloads/.
+      Please install the "Desktop development with C++" workload, including all of its default components
+
+[✓] Connected device (4 available) [500ms]
+    • Infinix X6852 (wireless) (mobile) • adb-121024046K103571-Tpd6TU._adb-tls-connect._tcp • android-arm64  • Android 15 (API 35)
+    • Windows (desktop)                 • windows                                           • windows-x64    • Microsoft Windows [Version 10.0.26100.7171]
+    • Chrome (web)                      • chrome                                            • web-javascript • Google Chrome 142.0.7444.176
+    • Edge (web)                        • edge                                              • web-javascript • Microsoft Edge 142.0.3595.94
+
+[✓] Network resources [700ms]
+    • All expected network resources are available.
+
+! Doctor found issues in 1 category.
+```
