@@ -48,8 +48,8 @@ A marketing system where I developed responsive and user-friendly frontend compo
 
 ---
 
-
 ### Contribution Activity
+
 <div align="center">
 
 ![GitHub Snake](https://github-readme-activity-graph.vercel.app/graph?username=fideljotojot&theme=github-dark&hide_border=true)
