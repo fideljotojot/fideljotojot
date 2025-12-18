@@ -27,6 +27,29 @@ Frontend-focused web developer with hands-on experience building Vue.js applicat
 
 ## Selected Projects
 
+**Peso Bills Scanner**  
+A Flutter mobile application that uses machine learning to instantly detect and classify Philippine peso bills (paper and polymer). The app provides real-time denomination identification with confidence scoring, maintains detailed scan logs with timestamps, and displays analytics on scanning frequency patterns.  
+*Flutter · Dart · TensorFlow Lite · Machine Learning*
+
+### Features:
+- **Bill Detection & Classification:** Instantly identify peso denominations (₱20, ₱50, ₱100, etc.) from camera or gallery images
+- **Material Recognition:** Distinguish between paper and polymer bills with AI-powered analysis
+- **Confidence Scoring:** Display prediction confidence levels for each scan
+- **Scan Analytics:** Track daily scanning frequency with visual charts and statistics
+- **Scan History:** Maintain detailed logs of all scanned bills with timestamps and confidence metrics
+- **Bill Encyclopedia:** Educational reference guide showing all supported peso bill denominations
+
+### App Screenshots:
+<div align="center">
+
+![Main Scanner Screen](peso_bills/screenshots/scanner_main.png) ![Bill Scan Ready](peso_bills/screenshots/bill_scan.png)
+
+![Analytics Dashboard](peso_bills/screenshots/analytics.png) ![Scan History Logs](peso_bills/screenshots/logs.png)
+
+</div>
+
+---
+
 **FindMyProf**  
 A web-based system that helps students efficiently locate instructors and view availability, improving communication and accessibility.  
 *Vue · JavaScript · Python · PHP*
