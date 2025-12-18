@@ -48,9 +48,9 @@ A marketing system where I developed responsive and user-friendly frontend compo
 
 ---
 
-<div align="center">
 
-### 📊 Contribution Activity
+### Contribution Activity
+<div align="center">
 
 ![GitHub Snake](https://github-readme-activity-graph.vercel.app/graph?username=fideljotojot&theme=github-dark&hide_border=true)
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fideljotojot&theme=github_dark)
