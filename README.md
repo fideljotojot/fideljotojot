@@ -48,7 +48,7 @@ A marketing system where I developed responsive and user-friendly frontend compo
 
 ---
 
-### Contribution Activity
+## Contribution Activity
 
 <div align="center">
 
