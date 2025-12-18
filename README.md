@@ -39,7 +39,7 @@ A marketing system where I developed responsive and user-friendly frontend compo
 
 ## GitHub Activity
 
-<div align="center">
+<div align="center" justify="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fideljotojot&show_icons=true&theme=dark&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fideljotojot&layout=compact&theme=dark&hide_border=true)
