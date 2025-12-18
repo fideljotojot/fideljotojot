@@ -74,6 +74,16 @@ These are the Philippine peso bill denominations the model can recognize.
   </table>
 </div>
 
+### Real-World Detection Example:
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%"><img src="peso_bills/screenshots/scan.png" alt="Real ₱20 Peso Bill" width="100%"><br/><strong>Real Bill Detection</strong><br/>Actual bill captured for scanning</td>
+      <td width="50%"><img src="peso_bills/screenshots/result.png" alt="Scan Result" width="100%"><br/><strong>Scan Result</strong><br/>Model prediction with confidence scoring</td>
+    </tr>
+  </table>
+</div>
+
 ---
 
 **FindMyProf**  
