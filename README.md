@@ -25,7 +25,7 @@ Frontend-focused web developer with hands-on experience building Vue.js applicat
 
 ---
 
-## Selected Projects
+## Latest Project
 
 **Peso Bills Scanner**  
 A Flutter mobile application that uses machine learning to instantly detect and classify Philippine peso bills (paper and polymer). The app provides real-time denomination identification with confidence scoring, maintains detailed scan logs with timestamps, and displays analytics on scanning frequency patterns.  
@@ -39,7 +39,7 @@ A Flutter mobile application that uses machine learning to instantly detect and 
 - **Scan History:** Maintain detailed logs of all scanned bills with timestamps and confidence metrics
 - **Bill Encyclopedia:** Educational reference guide showing all supported peso bill denominations
 
-### 💵 Supported Bill Denominations
+### Supported Bill Denominations
 These are the Philippine peso bill denominations the model can recognize.
 
 <table>
@@ -78,8 +78,8 @@ These are the Philippine peso bill denominations the model can recognize.
 <div align="center">
   <table>
     <tr>
-      <td width="50%"><img src="peso_bills/screenshots/scan.png" alt="Real ₱20 Peso Bill" width="100%"><br/><strong>Real Bill Detection</strong><br/>Actual bill captured for scanning</td>
-      <td width="50%"><img src="peso_bills/screenshots/result.png" alt="Scan Result" width="100%"><br/><strong>Scan Result</strong><br/>Model prediction with confidence scoring</td>
+      <td width="25%"><img src="peso_bills/screenshots/scan.png" alt="Real ₱20 Peso Bill" width="100%"></td>
+      <td width="25%"><img src="peso_bills/screenshots/result.png" alt="Scan Result" width="100%"></td>
     </tr>
   </table>
 </div>
